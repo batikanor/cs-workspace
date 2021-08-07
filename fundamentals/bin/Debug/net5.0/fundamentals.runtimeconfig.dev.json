@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/inductiomori/.dotnet/store/|arch|/|tfm|",
+      "/home/inductiomori/.nuget/packages"
+    ]
+  }
+}

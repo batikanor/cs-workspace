@@ -1,0 +1,16 @@
+/mnt/EasilyMovable/5-repositories/cs-workspace/fundamentals/obj/Debug/net5.0/fundamentals.csproj.AssemblyReference.cache
+/mnt/EasilyMovable/5-repositories/cs-workspace/fundamentals/obj/Debug/net5.0/fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/EasilyMovable/5-repositories/cs-workspace/fundamentals/obj/Debug/net5.0/fundamentals.AssemblyInfoInputs.cache
+/mnt/EasilyMovable/5-repositories/cs-workspace/fundamentals/obj/Debug/net5.0/fundamentals.AssemblyInfo.cs
+/mnt/EasilyMovable/5-repositories/cs-workspace/fundamentals/obj/Debug/net5.0/fundamentals.csproj.CoreCompileInputs.cache
+/mnt/EasilyMovable/5-repositories/cs-workspace/fundamentals/bin/Debug/net5.0/fundamentals
+/mnt/EasilyMovable/5-repositories/cs-workspace/fundamentals/bin/Debug/net5.0/fundamentals.deps.json
+/mnt/EasilyMovable/5-repositories/cs-workspace/fundamentals/bin/Debug/net5.0/fundamentals.runtimeconfig.json
+/mnt/EasilyMovable/5-repositories/cs-workspace/fundamentals/bin/Debug/net5.0/fundamentals.runtimeconfig.dev.json
+/mnt/EasilyMovable/5-repositories/cs-workspace/fundamentals/bin/Debug/net5.0/fundamentals.dll
+/mnt/EasilyMovable/5-repositories/cs-workspace/fundamentals/bin/Debug/net5.0/ref/fundamentals.dll
+/mnt/EasilyMovable/5-repositories/cs-workspace/fundamentals/bin/Debug/net5.0/fundamentals.pdb
+/mnt/EasilyMovable/5-repositories/cs-workspace/fundamentals/obj/Debug/net5.0/fundamentals.dll
+/mnt/EasilyMovable/5-repositories/cs-workspace/fundamentals/obj/Debug/net5.0/ref/fundamentals.dll
+/mnt/EasilyMovable/5-repositories/cs-workspace/fundamentals/obj/Debug/net5.0/fundamentals.pdb
+/mnt/EasilyMovable/5-repositories/cs-workspace/fundamentals/obj/Debug/net5.0/fundamentals.genruntimeconfig.cache
